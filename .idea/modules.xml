@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Swoosh.iml" filepath="$PROJECT_DIR$/Swoosh.iml" />
+      <module fileurl="file://C:\Users\Guilherme\AndroidStudioProjects\swoosh\Swoosh.iml" filepath="C:\Users\Guilherme\AndroidStudioProjects\swoosh\Swoosh.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Guilherme\AndroidStudioProjects\swoosh\app\app.iml" filepath="C:\Users\Guilherme\AndroidStudioProjects\swoosh\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swoosh.iml" filepath="$PROJECT_DIR$/swoosh.iml" />
     </modules>
   </component>
 </project>
