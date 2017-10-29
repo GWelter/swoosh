@@ -1,4 +1,4 @@
-package com.example.guilherme.swoosh
+package com.example.guilherme.swoosh.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
